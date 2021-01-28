@@ -1,0 +1,43 @@
+.main{
+    background-color:#e3e0cf;
+    padding-left: 5%;
+}
+.project{
+    background-color:#9fa8a3;
+    max-width: 95%;
+    text-align: center;
+    
+}
+#im{
+    padding: 0%;
+    margin: auto;
+   margin-top: 3%;
+   border-radius: 5%;
+    border: solid;
+}
+.navbar{
+    background-color:#c5d5cb;
+    max-width: 95%;
+    padding-left: 5%;
+    
+    
+}
+#ab{
+    background-color:#c39EA5;
+    padding: 0%;
+    max-width: 15%;
+    border-radius: 5%;
+}
+.about{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pp{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-size: large;
+}
+#footer{
+    background-color: #c5d5cb;
+    max-width: 100%;
+}
