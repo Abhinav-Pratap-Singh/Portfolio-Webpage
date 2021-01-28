@@ -42,9 +42,10 @@
     max-width: 100%;
 }
 .project-title{
-    background-color:#c39EA5;
+    
+    background-color:#c5d5cb
     padding: 0%;
-    max-width: 15%;
+    max-width: 40%;
     border-radius: 5%;
     
     }
